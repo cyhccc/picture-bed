@@ -1,2 +1,2 @@
-# typora-imges
-typora图床
+# picture-bed
+图床
